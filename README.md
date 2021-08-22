@@ -1,2 +1,4 @@
 # stepik-autotest-course
-Learn git 
+Learn git
+
+Hello, world!
