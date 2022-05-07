@@ -1,4 +1,4 @@
 # stepik-autotest-course
 Learn git
 
-Hello
+Hello!  Lesson 3.1 step 7
